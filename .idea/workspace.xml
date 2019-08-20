@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47237a95-2f01-4541-a376-ed057d72a15e" name="Default Changelist" comment="">
+    <list default="true" id="47237a95-2f01-4541-a376-ed057d72a15e" name="Default Changelist" comment="add interesses">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -15,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="206">
+              <caret line="68" column="41" lean-forward="true" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -39,6 +39,7 @@
       <find>img</find>
       <find>clar</find>
       <find>less</find>
+      <find>interesses</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -64,6 +65,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,7 +77,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +133,8 @@
       <workItem from="1553637907018" duration="680000" />
       <workItem from="1553819657532" duration="13286000" />
       <workItem from="1554251214724" duration="2551000" />
-      <workItem from="1554278517894" duration="412000" />
+      <workItem from="1554278517894" duration="667000" />
+      <workItem from="1566266415242" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="scrollspy funcionando">
       <created>1552946041408</created>
@@ -176,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553928248793</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add interesses">
+      <created>1554278954633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554278954633</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31742000" />
+    <option name="totallyTimeSpent" value="32371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,7 +216,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985119" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985119" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014881" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49925596" weight="0.32843137" />
@@ -266,7 +275,8 @@
     <MESSAGE value="corrigindo um erro de português" />
     <MESSAGE value="arrumei o posicionamento da imagem e o footer" />
     <MESSAGE value="resolvi usar um tema pronto por enquanto" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolvi usar um tema pronto por enquanto" />
+    <MESSAGE value="add interesses" />
+    <option name="LAST_COMMIT_MESSAGE" value="add interesses" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/jquery/jquery.js" />
@@ -297,8 +307,8 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="206">
+          <caret line="68" column="41" lean-forward="true" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
         </state>
       </provider>
     </entry>
