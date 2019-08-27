@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47237a95-2f01-4541-a376-ed057d72a15e" name="Default Changelist" comment="atualização da formação">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    <list default="true" id="47237a95-2f01-4541-a376-ed057d72a15e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +78,8 @@
       <workItem from="1554278517894" duration="667000" />
       <workItem from="1566266415242" duration="2188000" />
       <workItem from="1566613711465" duration="261000" />
-      <workItem from="1566614278616" duration="2769000" />
+      <workItem from="1566614278616" duration="2951000" />
+      <workItem from="1566873652964" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="scrollspy funcionando">
       <created>1552946041408</created>
@@ -139,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566266816575</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="atualização da experiência">
+      <created>1566617151837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566617151837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -190,6 +195,7 @@
     <MESSAGE value="resolvi usar um tema pronto por enquanto" />
     <MESSAGE value="add interesses" />
     <MESSAGE value="atualização da formação" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualização da formação" />
+    <MESSAGE value="atualização da experiência" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização da experiência" />
   </component>
 </project>
