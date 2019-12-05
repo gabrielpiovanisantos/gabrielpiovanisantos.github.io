@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47237a95-2f01-4541-a376-ed057d72a15e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/site.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -13,12 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
   </component>
   <component name="ProjectId" id="1Pqv6x0Ov43HNeTMMLswneihrqD" />
   <component name="PropertiesComponent">
@@ -79,7 +75,10 @@
       <workItem from="1566266415242" duration="2188000" />
       <workItem from="1566613711465" duration="261000" />
       <workItem from="1566614278616" duration="2951000" />
-      <workItem from="1566873652964" duration="1681000" />
+      <workItem from="1566873652964" duration="1805000" />
+      <workItem from="1570316659995" duration="50000" />
+      <workItem from="1570316929527" duration="143000" />
+      <workItem from="1575501494134" duration="2689000" />
     </task>
     <task id="LOCAL-00001" summary="scrollspy funcionando">
       <created>1552946041408</created>
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566617151837</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adicionei icone da minha playlista e mudei o titulo">
+      <created>1566875371308</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566875371308</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -196,6 +202,7 @@
     <MESSAGE value="add interesses" />
     <MESSAGE value="atualização da formação" />
     <MESSAGE value="atualização da experiência" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualização da experiência" />
+    <MESSAGE value="adicionei icone da minha playlista e mudei o titulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionei icone da minha playlista e mudei o titulo" />
   </component>
 </project>
