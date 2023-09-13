@@ -10,4 +10,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="popper" level="application" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="593a3024-b8ee-46c6-ad8c-4ed65da1c386" />
+  </component>
 </module>
